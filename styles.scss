@@ -1,0 +1,47 @@
+#taakInput,
+.taakInput {
+    font-size: 25px;
+    width: 600px;
+    height: 1.2em;
+}
+
+#addTask,
+.wijzigTask {
+    font-size: 25px;
+    height: 40px;
+    width: 250px;
+}
+
+.taakOmschrijving {
+    width: 600px;
+    margin-left: 50px;
+    margin-top: 5px;
+}
+
+label {
+    font-size: 25px;
+}
+
+.id,
+.done {
+    opacity: 0;
+}
+
+.plaatje {
+    width: 50px;
+}
+
+input[type="checkbox"] {
+    margin-top: 15px;
+}
+
+.regel {
+    list-style-type: none;
+    width: 1000px;
+    display: flex;
+    font-size: 25px;
+}
+
+.doorhalen {
+    text-decoration: line-through;
+}
